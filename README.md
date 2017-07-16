@@ -11,7 +11,7 @@
 ##选了某门课程的人
 ![default](https://user-images.githubusercontent.com/16076963/28245250-34659976-6a35-11e7-90b6-e2922ffe0d42.png)
 ##新增排课
-
+![default](https://user-images.githubusercontent.com/16076963/28245461-ccf0f56a-6a39-11e7-958d-7cc30911a3d9.png)
 ##删除课程
 ![default](https://user-images.githubusercontent.com/16076963/28245306-2d61b6f4-6a36-11e7-816d-899953d79371.png)
 ##修改课程
@@ -34,6 +34,23 @@
 [default](https://user-images.githubusercontent.com/16076963/28245392-3d2041bc-6a38-11e7-939f-f0f5a2959558.png)
 ##UML
 ![uml](https://user-images.githubusercontent.com/16076963/28245398-605d97ba-6a38-11e7-98d6-92eede7f297e.png)
+
+#登录模块：学生或教师选择角色登录
+#选课模块：学生直接根据课程名称和学期搜索课程，点击选课:
+1.选课成功
+2.该门课程需要其他先修课程，而先修课程尚未选修或者先修课程成绩不合格，选课失败
+3.第二次点选该课程，选课失败
+#已选课程 ：学生可以直接进入已选课程模块查看自己已选的课程以及上课时间等
+#成绩查询模块：学生进入界面直接查看成绩
+#教师课程管理：
+1.排课
+2.修改信息
+3.给成绩
+4.设置先修课程等课程管理操作
+
+
+
+
 #数据库
 /*
 Navicat SQLite Data Transfer
