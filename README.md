@@ -2,7 +2,7 @@
 ##系统分层结构图
 ![default](https://user-images.githubusercontent.com/16076963/28245170-162903b4-6a33-11e7-8492-231ce5086151.png)
 ##删除教师
-
+![default](https://user-images.githubusercontent.com/16076963/28245204-0b0aaaf4-6a34-11e7-8933-cb5facc7cf46.png)
 ##修改教师信息
 
 ##新增教师
