@@ -19,7 +19,7 @@
 ##新增课程
 ![default](https://user-images.githubusercontent.com/16076963/28245338-d879bcb2-6a36-11e7-937d-76272f6787e6.png)
 ##查看成绩
-
+![default](https://user-images.githubusercontent.com/16076963/28245426-f6dc811a-6a38-11e7-864c-862ed5801205.png)
 ##选了的课程
 ![default](https://user-images.githubusercontent.com/16076963/28245359-3e96d430-6a37-11e7-866f-1c03516bc736.png)
 ##已选该课程选课失败
