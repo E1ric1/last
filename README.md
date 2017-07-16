@@ -21,7 +21,7 @@
 ##查看成绩
 
 ##选了的课程
-
+![default](https://user-images.githubusercontent.com/16076963/28245359-3e96d430-6a37-11e7-866f-1c03516bc736.png)
 ##已选该课程选课失败
 
 ##未选先修课程
