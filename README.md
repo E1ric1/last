@@ -16,7 +16,7 @@
 ##删除课程
 ![default](https://user-images.githubusercontent.com/16076963/28245306-2d61b6f4-6a36-11e7-816d-899953d79371.png)
 ##修改课程
-
+![default](https://user-images.githubusercontent.com/16076963/28245330-9c9ce746-6a36-11e7-81e8-4e32f2e3a430.png)
 ##新增课程
 
 ##查看成绩
