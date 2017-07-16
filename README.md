@@ -25,6 +25,7 @@
 ##已选该课程选课失败
 ![default](https://user-images.githubusercontent.com/16076963/28245433-1f6b2a8c-6a39-11e7-9ceb-48498854b775.png)
 ##未选先修课程
+![default](https://user-images.githubusercontent.com/16076963/28245441-45ef319e-6a39-11e7-9ac2-788cf1eea638.png)
 ##选课成功
 ![default](https://user-images.githubusercontent.com/16076963/28245385-046bc134-6a38-11e7-8e68-c3231ee24a47.png)
 ##主页
