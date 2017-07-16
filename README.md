@@ -34,7 +34,8 @@
 [default](https://user-images.githubusercontent.com/16076963/28245392-3d2041bc-6a38-11e7-939f-f0f5a2959558.png)
 ##UML
 ![uml](https://user-images.githubusercontent.com/16076963/28245398-605d97ba-6a38-11e7-98d6-92eede7f297e.png)
-
+student顺序图：
+![student](https://user-images.githubusercontent.com/16076963/28245524-635cb0f6-6a3b-11e7-929e-4ca1ffeba1f5.jpg)
 #登录模块：学生或教师选择角色登录
 #选课模块：学生直接根据课程名称和学期搜索课程，点击选课:
 1.选课成功
