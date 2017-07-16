@@ -10,7 +10,6 @@
 ![default](https://user-images.githubusercontent.com/16076963/28245233-dbcc145c-6a34-11e7-9cef-e2f0dc73f4ff.png)
 ##选了某门课程的人
 ![default](https://user-images.githubusercontent.com/16076963/28245250-34659976-6a35-11e7-90b6-e2922ffe0d42.png)
-
 ##新增排课
 
 ##删除课程
@@ -18,7 +17,7 @@
 ##修改课程
 ![default](https://user-images.githubusercontent.com/16076963/28245330-9c9ce746-6a36-11e7-81e8-4e32f2e3a430.png)
 ##新增课程
-
+![default](https://user-images.githubusercontent.com/16076963/28245338-d879bcb2-6a36-11e7-937d-76272f6787e6.png)
 ##查看成绩
 
 ##选了的课程
