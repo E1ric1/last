@@ -6,7 +6,7 @@
 ##修改教师信息
 
 ##新增教师
-
+![default](https://user-images.githubusercontent.com/16076963/28245233-dbcc145c-6a34-11e7-9cef-e2f0dc73f4ff.png)
 ##选了某门课程的人
 
 ##新增排课
