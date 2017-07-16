@@ -26,6 +26,7 @@
 
 ##未选先修课程
 ##选课成功
+![default](https://user-images.githubusercontent.com/16076963/28245385-046bc134-6a38-11e7-8e68-c3231ee24a47.png)
 ##主页
 ##登录
 ##UML
