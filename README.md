@@ -5,7 +5,7 @@
 ##删除教师
 ![default](https://user-images.githubusercontent.com/16076963/28245204-0b0aaaf4-6a34-11e7-8933-cb5facc7cf46.png)
 ##修改教师信息
-
+![default](https://user-images.githubusercontent.com/16076963/28245416-cdfbe4f2-6a38-11e7-8bb0-d03d8d7b23ea.png)
 ##新增教师
 ![default](https://user-images.githubusercontent.com/16076963/28245233-dbcc145c-6a34-11e7-9cef-e2f0dc73f4ff.png)
 ##选了某门课程的人
